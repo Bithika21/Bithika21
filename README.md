@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Bithika Sikder 👋
 
-<!--
-**Bithika21/Bithika21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring Data Engineer
 
-Here are some ideas to get you started:
+- 🔹 Skilled in SQL, Python, Power BI
+- 🔹 Building Real-World Railway & Telecom Data Projects
+- 🔹 Passionate about Data Analysis & Engineering
+- 🔹 Open to Work Opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+- SQL  
+- Python  
+- Power BI  
+- Excel  
+
+---
+
+## 📊 Projects
+
+### 🚆 Railway Failure Analysis Dashboard
+- Analyzed railway failure data using SQL & Power BI
+- Created dashboards to identify patterns and issues
+
+### 💰 Railway Billing Data Analysis
+- Performed billing data analysis using SQL & Excel
+- Generated insights for operational efficiency
+
+---
+
+## 🔗 Connect with me
+
+- 💼 LinkedIn: https://linkedin.com/in/bithika-sikder
+
+---
+
+⭐ Thank you for visiting my profile!
