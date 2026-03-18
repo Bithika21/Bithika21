@@ -59,9 +59,7 @@
 
 ---
 
-## 📄 Resume
-[View My Resume](ADD_YOUR_RESUME_LINK_HERE)
-
+📄 Resume: [View My Resume](https://github.com/Bithika21/resume/blob/main/Bithika%20Sikder%20Resume%20F.pdf)
 ---
 
 ## 🤝 Connect with me
