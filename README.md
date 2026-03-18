@@ -1,19 +1,19 @@
-# Hi, I'm Bithika Sikder 👋
+# Hi, I'm Bithika Sikder 
 
-💼 Data Analyst | Aspiring Data Engineer  
-📍 Delhi, India  
-📊 2+ years experience in Railway & Telecom Data Systems  
+Data Analyst | Aspiring Data Engineer  
+ Delhi, India  
+ 2+ years experience in Railway & Telecom Data Systems  
 
 ---
 
-## 🚀 About Me
+##  About Me
 - Data Analyst with hands-on experience in real-world railway and telecom projects  
 - Skilled in analyzing large datasets, building dashboards, and generating insights  
 - Currently transitioning towards Data Engineering  
 
 ---
 
-## 🛠️ Skills
+##  Skills
 - SQL  
 - Python (Pandas, NumPy)  
 - Power BI  
@@ -25,7 +25,7 @@
 
 ---
 
-## 💼 Experience
+##  Experience
 **Data Analyst – Railbit Engineers Pvt Ltd (2023 – Present)**  
 - Worked on real-time railway system data and logs  
 - Built dashboards for KPI monitoring using Power BI  
@@ -33,38 +33,38 @@
 
 ---
 
-## 📊 Projects
+##  Projects
 
-### 🚆 Railway Failure Analysis Dashboard
+###  Railway Failure Analysis Dashboard
 - Analyzed railway failure data using SQL & Power BI  
 - Built dashboards to monitor failure trends and patterns  
 
-### 💰 Railway Billing Data Analysis (BTS)
+###  Railway Billing Data Analysis (BTS)
 - Analyzed billing datasets using SQL & Excel  
 - Validated invoices and improved workflow accuracy  
 
-### 🌐 Network Log Analysis (IPDR)
+###  Network Log Analysis (IPDR)
 - Analyzed telecom network logs to detect anomalies  
 - Identified traffic patterns and performance issues  
 
-### 🏢 Railway E-Office Analytics
+###  Railway E-Office Analytics
 - Analyzed billing and document records  
 - Generated reports and improved reporting efficiency  
 
 ---
 
-## 🏭 Domain Experience
+## Domain Experience
 - Railway Systems (FRACAS, BTS, E-Office)  
 - Telecom Network Analysis (IPDR)  
 
 ---
 
-📄 Resume: [View My Resume](https://github.com/Bithika21/resume/blob/main/Bithika%20Sikder%20Resume%20F.pdf)
+ Resume: [View My Resume](https://github.com/Bithika21/resume/blob/main/Bithika%20Sikder%20Resume%20F.pdf)
 ---
 
-## 🤝 Connect with me
+##  Connect with me
 - LinkedIn: https://linkedin.com/in/bithika-sikder  
 
 ---
 
-⭐ Thank you for visiting my profile!
+ Thank you for visiting my profile!
