@@ -1,70 +1,49 @@
-# Hi, I'm Bithika Sikder 
+# Hi, I'm Bithika Sikder
 
-Data Analyst | Aspiring Data Engineer  
- Delhi, India  
- 2+ years experience in Railway & Telecom Data Systems  
+## Data Analyst | Data Engineering Enthusiast
+
+Delhi, India  
+2+ years experience in Railway & Telecom Data Systems  
 
 ---
 
-##  About Me
+## About Me
 - Data Analyst with hands-on experience in real-world railway and telecom projects  
 - Skilled in analyzing large datasets, building dashboards, and generating insights  
+- Experienced in SQL, Excel, and Power BI for business data analysis  
 - Currently transitioning towards Data Engineering  
 
 ---
 
-##  Skills
+## Skills
 - SQL  
-- Python (Pandas, NumPy)  
-- Power BI  
 - Excel  
-- MySQL  
-- Data Analysis & Visualization  
-- ETL Concepts  
-- Data Cleaning & Reporting  
+- Power BI  
+- Python (Pandas, NumPy)  
+- Data Analysis  
+- Data Visualization  
 
 ---
 
-##  Experience
-**Data Analyst – Railbit Engineers Pvt Ltd (2023 – Present)**  
-- Worked on real-time railway system data and logs  
-- Built dashboards for KPI monitoring using Power BI  
-- Performed data validation, analysis, and reporting  
+## Projects
+
+### Railway Billing Data Analysis
+- Analyzed billing datasets to validate invoices and detect inconsistencies  
+- Used SQL to identify revenue trends and anomalies  
+- Improved reporting accuracy and financial workflow  
+
+### Railway Failure Analysis Dashboard
+- Built interactive dashboards using Power BI  
+- Analyzed system failure trends and operational risks  
+- Identified high-risk components and downtime patterns  
 
 ---
 
-##  Projects
+## Resume
 
-###  Railway Failure Analysis Dashboard
-- Analyzed railway failure data using SQL & Power BI  
-- Built dashboards to monitor failure trends and patterns  
-
-###  Railway Billing Data Analysis (BTS)
-- Analyzed billing datasets using SQL & Excel  
-- Validated invoices and improved workflow accuracy  
-
-###  Network Log Analysis (IPDR)
-- Analyzed telecom network logs to detect anomalies  
-- Identified traffic patterns and performance issues  
-
-###  Railway E-Office Analytics
-- Analyzed billing and document records  
-- Generated reports and improved reporting efficiency  
-
+https://raw.githubusercontent.com/Bithika21/resume/main/Bithika%20Sikder%20Resume%20F.pdf
 ---
 
-## Domain Experience
-- Railway Systems (FRACAS, BTS, E-Office)  
-- Telecom Network Analysis (IPDR)  
-
----
-
- Resume: [View My Resume](https://github.com/Bithika21/resume/blob/main/Bithika%20Sikder%20Resume%20F.pdf)
----
-
-##  Connect with me
-- LinkedIn: https://linkedin.com/in/bithika-sikder  
-
----
-
- Thank you for visiting my profile!
+## Contact
+- Email: bithikasikder21@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/bithika-sikder  
